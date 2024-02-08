@@ -1,0 +1,75 @@
+.color_box{
+    width:400px;
+    height:400px;
+    border:1px solid red;
+    margin:auto;
+}
+.count_box{
+    width:400px;
+    height:200px;
+    margin:auto;
+    margin-top:20px;
+}
+.RED{
+    width:198px;
+    height:200px;
+    border:1px solid red;
+    float:left;
+}
+.YELLOW{
+    width:198px;
+    height:200px;
+    border:1px solid red;
+    float:left;
+}
+.GREEN{
+    width:198px;
+    height:200px;
+    border:1px solid red;
+    float:left;
+}
+.ORANGE{
+    width:198px;
+    height:200px;
+    border:1px solid red;
+    float:left;
+}
+.Red_count{
+    width:69px;
+    height:20px;
+    float:left;
+    margin-right:29px;
+    margin-left:30px;
+    background-color:red;
+}
+.Yellow_count{
+    width:69px;
+    height:20px;
+    float:left;
+    margin-right:29px;
+    margin-left:30px;
+    background-color:yellow;
+}
+.Green_count{
+    width:69px;
+    height:20px;
+    float:left;
+    margin-right:29px;
+    margin-left:30px;
+    background-color:green;
+    text-align:center;
+}
+.Orange_count{
+    width:69px;
+    height:20px;
+    float:left;
+    background-color:orange;
+    margin-left:30px;
+    text-align:center;
+}
+.Button{
+    width:400px;
+    height:40px;
+    margin:auto;
+    margin-top:50px;
+}
